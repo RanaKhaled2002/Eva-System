@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eva API", "Eva API\Eva API.csproj", "{DD97BA6E-4386-4458-B545-A7D926D58390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eva BLL", "Eva BLL\Eva BLL.csproj", "{69345BDB-BDF9-4176-ACDD-EFBA911BAC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eva DAL", "Eva DAL\Eva DAL.csproj", "{4DD9BF7C-A902-4C68-B64D-928233FB2AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD97BA6E-4386-4458-B545-A7D926D58390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD97BA6E-4386-4458-B545-A7D926D58390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD97BA6E-4386-4458-B545-A7D926D58390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD97BA6E-4386-4458-B545-A7D926D58390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69345BDB-BDF9-4176-ACDD-EFBA911BAC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69345BDB-BDF9-4176-ACDD-EFBA911BAC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69345BDB-BDF9-4176-ACDD-EFBA911BAC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69345BDB-BDF9-4176-ACDD-EFBA911BAC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD9BF7C-A902-4C68-B64D-928233FB2AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD9BF7C-A902-4C68-B64D-928233FB2AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD9BF7C-A902-4C68-B64D-928233FB2AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD9BF7C-A902-4C68-B64D-928233FB2AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC329A4-4036-485E-97F2-510C0988D319}
+	EndGlobalSection
+EndGlobal
